@@ -197,3 +197,4 @@ int main(int argc, char *argv[])
     rclcpp::shutdown();
     return 0;
 }
+// This code is part of the SELQIE project and is licensed under the Apache License 2.0.
